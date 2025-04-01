@@ -3,7 +3,6 @@ from groq import Groq
 import json
 import re
 
-
 load_dotenv()
 
 groq = Groq()

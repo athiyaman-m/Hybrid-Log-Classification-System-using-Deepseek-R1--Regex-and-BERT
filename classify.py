@@ -33,7 +33,7 @@ def classify_csv(input_file):
     return output_file
 
 if __name__ == '__main__':
-    classify_csv("test.csv")
+    classify_csv("../resources/test.csv")
     # logs = [
     #     ("ModernCRM", "IP 192.168.133.114 blocked due to potential attack"),
     #     ("BillingSystem", "User 12345 logged in."),
